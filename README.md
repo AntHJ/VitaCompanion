@@ -1,4 +1,8 @@
 # VitaCompanion
+![Screenshot](https://github.com/AntHJ/VitaCompanion/blob/main/Vita%20Companion%201.png)
+![Screenshot](https://github.com/AntHJ/VitaCompanion/blob/main/Vita%20Companion%202.png)
+![Screenshot](https://github.com/AntHJ/VitaCompanion/blob/main/Vita%20Companion%203.png)
+
 The Vita Companion is an all in one solution that will help make setting up your Vita a lot more efficient..
 
 - Intergrated Modoru to downgrade your system to 3.65
