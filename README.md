@@ -12,6 +12,8 @@ The Vita Companion is an all in one solution that will help make setting up your
 
 - The app will auto detect if your using a Vita or PSTV then installs a starter plugin pack acordingly when you downgrade. For example the Vita pack includes the DS4 support plugin where as the PSTV pack installs DolcePolce (game whitelister)
 
+- The PSM Mobile Runtime 2.01 is also installed during the downgrade or plugin installation
+
 - The Storage format tool by SKGleba is included to corectly format your SD card for use in the SD2Vita or PSVSD adaptors
 
 - Also include is my own UX0 to SD clone tool which will prepare your system to take an SD and then clone your current setup onto a genuine SD card
