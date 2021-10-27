@@ -1,6 +1,7 @@
 # VitaCompanion
 
 The Vita Companion is an all in one solution that will help make setting up your Vita a lot more efficient..
+- [Reference guide](https://github.com/AntHJ/VitaCompanion/blob/main/ReferenceGuide.md)
 
 ![](https://github.com/AntHJ/VitaCompanion/blob/main/006b.png)
 
