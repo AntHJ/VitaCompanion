@@ -13,6 +13,9 @@ The Vita Companion is an all in one solution that will help make setting up your
 
 - The app will auto detect if your using a Vita or PSTV then installs a starter plugin pack acordingly when you downgrade. For example the Vita pack includes the DS4 support plugin where as the PSTV pack installs DolcePolce (game whitelister)
 
+   - Vita : 0Syscall6, NoNpDRM, NoPsmDrm, Repatch, udcd_uvc, DS4Vita, noAvls, KuBridge, FD_Fix, ShellBat  
+   - PSTV : 0Syscall6, NoNpDRM, NoPsmDrm, Repatch, DolcePolce, KuBridge, FD_Fix
+
 - The PSM Mobile Runtime 2.01 is also installed during the downgrade or plugin installation
 
 - The Storage format tool by SKGleba is included to corectly format your SD card for use in the SD2Vita or PSVSD adaptors
