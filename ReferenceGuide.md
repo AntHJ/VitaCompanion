@@ -37,3 +37,8 @@
 ![Image1](https://github.com/AntHJ/VitaCompanion/raw/main/006b.png)
 ![Image1](https://github.com/AntHJ/VitaCompanion/raw/main/007.png)
 ![Image1](https://github.com/AntHJ/VitaCompanion/raw/main/008.png)
+
+
+Installed Plugins :
+   - Vita : 0Syscall6, NoNpDRM, NoPsmDrm, Repatch, udcd_uvc, DS4Vita, noAvls, KuBridge, FD_Fix, ShellBat  
+   - PSTV : 0Syscall6, NoNpDRM, NoPsmDrm, Repatch, DolcePolce, KuBridge, FD_Fix
