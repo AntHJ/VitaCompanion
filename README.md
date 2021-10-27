@@ -8,16 +8,16 @@ The Vita Companion is an all in one solution that will help make setting up your
 
 - The intergrated Modoru will downgrade your system to firmware 3.65 and attempt to auto install Enso
 
-- The Enso app is also intergrated to manually Intall or remove the Enso exploit on 3.60 and 3.65
+- The Enso app is also intergrated to manually Install or remove the Enso exploit on 3.60 and 3.65
 
-- Auto detection of Vita or PSTV then installs a starter plugin pack automatically when you downgrade
+- The app will auto detect if your using a Vita or PSTV then installs a starter plugin pack acordingly when you downgrade. For example the Vita pack includes the DS4 support plugin where as the PSTV pack installs DolcePolce (game whitelister)
 
-- The Storage format tool by SKGleba is included to corectly format your SD card
+- The Storage format tool by SKGleba is included to corectly format your SD card for use in the SD2Vita or PSVSD adaptors
 
-- My own UX0 to SD clone tool to cloning your system onto a genuine SD card (SD2VITA)
+- Also include is my own UX0 to SD clone tool which will prepare your system to take an SD and then clone your current setup onto a genuine SD card
 
-- You are able to change memory allocations, similar to using Autoplugin
+- There is a section where you are able to manually change the memory allocations (similar to using Autoplugin)
 
-- You can check the validity of the SD card for potential fakes
+- There is an information page which shoes the current setup, the space used and will also check the validity of the SD card for potential fakes
 
-- and finally there is also a homebrew app downloader and installer
+- and finally there is also a homebrew app downloader and installer which has a selection of useful tools
