@@ -1,6 +1,7 @@
 # VitaCompanion
 
 The Vita Companion is an all in one solution that will help make setting up your Vita a lot more efficient..
+* Utilises Lua Player Plus Vita (lpp-vita). [Learn more.](https://github.com/Rinnegatamante/lpp-vita)
 - [Reference guide](https://github.com/AntHJ/VitaCompanion/blob/main/ReferenceGuide.md)
 
 ![](https://github.com/AntHJ/VitaCompanion/blob/main/006b.png)
